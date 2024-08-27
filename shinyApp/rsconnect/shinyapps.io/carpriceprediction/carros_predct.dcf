@@ -1,0 +1,12 @@
+name: carros_predct
+title: carros_predct
+username: carpriceprediction
+account: carpriceprediction
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12496330
+bundleId: 9017100
+url: https://carpriceprediction.shinyapps.io/carros_predct/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
