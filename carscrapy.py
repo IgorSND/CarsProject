@@ -100,7 +100,7 @@ class OlxCarsSelenium:
         df = pd.DataFrame(results)
 
         # Salvando o DataFrame em um arquivo Excel
-        df.to_excel('resultados_carros1.xlsx', index=False)
+        df.to_excel('resultados_carros2.xlsx', index=False)
 
         # Fechando o driver após a conclusão
         driver.quit()
