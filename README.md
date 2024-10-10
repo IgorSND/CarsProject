@@ -1,0 +1,1 @@
+o CarsProject é um projeto para estimativas de preços de carros anunciados na OLX, aplicando alguns modelos de machine learning na base de dados e futuramente com o deep learning conseguimos treinar um modelo assertivo.
